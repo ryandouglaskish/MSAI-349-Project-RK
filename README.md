@@ -2,7 +2,7 @@
 
 Predicting F1 race winners based off information from first few laps.
 
-**[Presentation](presentation.pdf)**
+**[Presentation](MSAI 349 Project - RK.pdf)**
 
 ***
 

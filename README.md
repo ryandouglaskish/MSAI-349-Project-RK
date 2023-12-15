@@ -12,6 +12,7 @@ Predicting F1 race winners based off information from first few laps.
 
 **Build data set**
 - [RaceModelBuildData.ipynb](RaceModelBuildData.ipynb)
+- EDA in [RaceModelEDA.ipynb](RaceModelEDA.ipynb)
 
 **Baseline model**
 - [RaceModelBaselinePredictionModel.ipynb](RaceModelBaselinePredictionModel.ipynb)
